@@ -1,0 +1,4 @@
+__pycache__
+.vscode
+tester.py
+processed_datasets
